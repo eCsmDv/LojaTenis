@@ -33,15 +33,13 @@ Este projeto é uma aplicação web completa desenvolvida em dupla como trabalho
 ## 📁 Estrutura de Diretórios
 
 LojaTenis/
-│
-├── Controllers/ # Controladores MVC
-├── Models/ # Entidades de domínio (POCO)
-├── Views/ # Interfaces (Razor Pages)
-├── Data/ # Contexto do EF Core
-├── Services/ # Regras de negócio e integração
-├── wwwroot/ # CSS, JS, Imagens
-└── README.md # Documentação do projeto
-
+├── Controllers/     # Controladores MVC
+├── Models/          # Entidades de domínio (POCO)
+├── Views/           # Interfaces (Razor Pages)
+├── Data/            # Contexto do EF Core
+├── Services/        # Regras de negócio e integração
+├── wwwroot/         # CSS, JS, Imagens
+└── README.md        # Documentação do projeto
 
 Desenvolvedores
 Eduardo Marques
