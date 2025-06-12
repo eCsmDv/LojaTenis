@@ -33,7 +33,6 @@ Este projeto é uma aplicação web completa desenvolvida em dupla como trabalho
 ## 📁 Estrutura de Diretórios
 
 LojaTenis/
-│
 ├── Controllers/ # Controladores MVC
 ├── Models/ # Entidades de domínio (POCO)
 ├── Views/ # Interfaces (Razor Pages)
