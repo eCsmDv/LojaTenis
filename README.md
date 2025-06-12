@@ -42,7 +42,6 @@ LojaTenis/
 ├── wwwroot/ # CSS, JS, Imagens
 └── README.md # Documentação do projeto
 
-
 Desenvolvedores
 Eduardo Marques
 Jonatas Davi
